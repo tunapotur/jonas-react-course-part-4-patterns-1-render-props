@@ -7,7 +7,7 @@
 This repo builded for Jonas Schmedtmann The Ultimate React Course 2023: React, Redux & More Udemy course.
 My goal is take notes and build projects for each section after I finish the section.
 
-### **1.The Render Props Pattern**
+### **_1.The Render Props Pattern_**
 
 ### 2.Higher-Order Components (HOC)
 

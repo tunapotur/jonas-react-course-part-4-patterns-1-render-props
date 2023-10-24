@@ -39,10 +39,6 @@ h1 {
 }
 
 .list-container > button {
-  display: none;
-}
-
-.list-container:has(.list) > button {
   display: block;
   width: 100px;
   margin: 16px auto 0 auto;

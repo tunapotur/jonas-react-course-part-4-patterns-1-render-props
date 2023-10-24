@@ -46,9 +46,7 @@ function CompanyItem({ company, defaultVisibility }) {
   );
 }
 
-/**
- ** The Render Props Pattern
- */
+//* The Render Props Pattern
 function List({ title, items, render }) {
   const [isOpen, setIsOpen] = useState(true);
   const [isCollapsed, setIsCollapsed] = useState(false);

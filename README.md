@@ -1,6 +1,6 @@
 # Jonas Schmedtmann The Ultimate React Course 2023: React, Redux &amp; More Udemy Course.
 
-## 1. The Render Props Pattern(renderProps)
+## 1. The Render Props Pattern
 
 ### Part 4 Advanced React Patterns
 
